@@ -122,7 +122,7 @@ public class PanelVisual extends javax.swing.JFrame { //PanelVisual hereda de la
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 abreFileActionPerformed(evt);
             }
-        });
+        });// comentario de prueba.....
 
         salir.setText("Salir");
         salir.addActionListener(new java.awt.event.ActionListener() {
